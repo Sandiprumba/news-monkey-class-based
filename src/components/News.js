@@ -1,8 +1,22 @@
 import React from "react";
 import NewsItem from "./NewsItem";
 import Spinner from "./Spinner";
+//create static data
+import PropTypes from "prop-types";
 
 class News extends React.Component {
+  //pass the default props like this or we can pass from app.js as well
+  static defaultProps = {
+    country: "us",
+    pageSize: 8,
+    category: "general",
+  };
+
+  static propTypes = {
+    country: PropTypes.string,
+    pageSize: PropTypes.number,
+    category: PropTypes.string,
+  };
   constructor() {
     super();
 
@@ -30,8 +44,7 @@ class News extends React.Component {
 
   //fetch the data using asyncronous function ..and the pageSize defines how many numbers of news to be displayed in one page
   async componentDidMount() {
-    console.log("component did mount running");
-    let url = `https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=70f9336095254d378716c0a3edfe912d&page=1&pageSize=${this.props.pageSize}`;
+    let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=70f9336095254d378716c0a3edfe912d&page=1&pageSize=${this.props.pageSize}`;
     this.setState({ loading: true });
     let data = await fetch(url);
     let parsedData = await data.json();
@@ -48,10 +61,19 @@ class News extends React.Component {
 
   handleNextClick = async () => {
     console.log("next button clicked");
-    if (!(this.state.page + 1 > Math.ceil(this.state.totalResults / 14))) {
+    if (
+      !(
+        this.state.page + 1 >
+        Math.ceil(this.state.totalResults / this.props.pageSize)
+      )
+    ) {
       return console.log(this.state.totalResults);
     } else {
-      let url = `https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=70f9336095254d378716c0a3edfe912d&page=${
+      let url = `https://newsapi.org/v2/top-headlines?country=${
+        this.props.country
+      }&category=${
+        this.props.category
+      }&apiKey=70f9336095254d378716c0a3edfe912d&page=${
         this.state.page + 1
       }&pageSize=${this.props.pageSize}`;
       this.setState({ loading: true });
@@ -66,7 +88,11 @@ class News extends React.Component {
   };
   handlePrevClick = async () => {
     console.log("prev button clicked");
-    let url = `https://newsapi.org/v2/top-headlines?country=us&category=business&apiKey=70f9336095254d378716c0a3edfe912d&page=${
+    let url = `https://newsapi.org/v2/top-headlines?country=${
+      this.props.country
+    }&category=${
+      this.props.category
+    }&apiKey=70f9336095254d378716c0a3edfe912d&page=${
       this.state.page - 1
     }&pageSize=${this.props.pageSize}`;
     this.setState({ loading: true });
@@ -80,10 +106,11 @@ class News extends React.Component {
   };
 
   render() {
-    console.log("render");
     return (
       <div className="container my-3">
-        <h1 className="text-center">News Monkey - Top Headlines</h1>
+        <h1 className="text-center" style={{ margin: "30px 0px" }}>
+          News Monkey - Top Headlines
+        </h1>
         {/* //if the content or loading is true then spinner should run */}
         {this.state.loading && <Spinner />}
 
@@ -93,13 +120,8 @@ class News extends React.Component {
               return (
                 <div className="col-md-4" key={element.url}>
                   <NewsItem
-                    author={element.author}
-                    title={element.title ? element.title.slice(0, 15) : ""}
-                    description={
-                      element.description
-                        ? element.description.slice(0, 88)
-                        : ""
-                    }
+                    title={element.title ? element.title : ""}
+                    description={element.description ? element.description : ""}
                     image={element.urlToImage}
                     newsUrl={element.url}
                   />

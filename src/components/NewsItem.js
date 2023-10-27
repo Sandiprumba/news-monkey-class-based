@@ -5,7 +5,7 @@ class NewsItem extends React.Component {
     let { author, title, description, image, newsUrl } = this.props;
     return (
       <div>
-        <div className="card" style={{ width: "18rem" }}>
+        <div className="card">
           <img
             src={
               !image
