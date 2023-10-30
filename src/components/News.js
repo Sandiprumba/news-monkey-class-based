@@ -62,10 +62,8 @@ class News extends React.Component {
   handleNextClick = async () => {
     console.log("next button clicked");
     if (
-      !(
-        this.state.page + 1 >
-        Math.ceil(this.state.totalResults / this.props.pageSize)
-      )
+      this.state.page + 1 <=
+      Math.ceil(this.state.totalResults / this.props.pageSize)
     ) {
       return console.log(this.state.totalResults);
     } else {
@@ -124,6 +122,9 @@ class News extends React.Component {
                     description={element.description ? element.description : ""}
                     image={element.urlToImage}
                     newsUrl={element.url}
+                    author={element.author}
+                    date={element.publishedAt}
+                    source={element.source.name}
                   />
                 </div>
               );
