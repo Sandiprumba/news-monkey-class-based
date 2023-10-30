@@ -1,266 +1,266 @@
 {
   "status": "ok",
-  "totalResults": 37,
+  "totalResults": 68,
   "articles": [
-    {
-      "source": {
-        "id": "the-washington-post",
-        "name": "The Washington Post"
-      },
-      "author": "Jason Samenow, Kelsey Ables",
-      "title": "Hurricane Otis makes landfall near Acapulco as Category 5 storm - The Washington Post",
-      "description": "“A nightmare scenario is unfolding for southern Mexico,” the National Hurricane Center wrote of the northeast Pacific’s fastest storm strengthening on record.",
-      "url": "https://www.washingtonpost.com/weather/2023/10/24/hurricane-otis-acapulco-mexico-landfall/",
-      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/J54JVGVPMJAH2FHABQ3JD37UXQ.jpg&w=1440",
-      "publishedAt": "2023-10-25T06:39:14Z",
-      "content": "Comment on this story\r\nComment\r\nAdd to your saved stories\r\nSave\r\nHurricane Otis made landfall near Acapulco, Mexico, early Wednesday as a Category 5 hurricane with 165 mph winds, the product of the m… [+5266 chars]"
-    },
-    {
-      "source": {
-        "id": "financial-times",
-        "name": "Financial Times"
-      },
-      "author": "Maxine Kelly, Jonathan Wheatley, John Aglionby, Eli Meixler, Gavin Huang",
-      "title": "Live news: Deutsche Bank projects highest annual revenue in seven years - Financial Times",
-      "description": null,
-      "url": "https://www.ft.com/content/e01f80f4-f7a4-4cbd-b8a3-4de14d528f70",
-      "urlToImage": null,
-      "publishedAt": "2023-10-25T06:16:27Z",
-      "content": "What is included in my trial?\r\nDuring your trial you will have complete digital access to FT.com with everything in both of our Standard Digital and Premium Digital packages.\r\nStandard Digital includ… [+1494 chars]"
-    },
-    {
-      "source": {
-        "id": "the-wall-street-journal",
-        "name": "The Wall Street Journal"
-      },
-      "author": "Stephen Kalin, Asa Fitch, Summer Said, Camille Bressange, Rory Jones, Joe Parkinson, Chao Deng, Drew Hinshaw, Dov Lieber",
-      "title": "Israel-Hamas War Updates: Israel Repels Hamas Incursion From Sea - The Wall Street Journal",
-      "description": "Biden talks with Saudi crown prince about conflict, while U.N. chief presses for protection of civilians",
-      "url": "https://www.wsj.com/livecoverage/israel-hamas-war-palestinians-news",
-      "urlToImage": "https://images.wsj.net/im-874732/social",
-      "publishedAt": "2023-10-25T06:16:00Z",
-      "content": "Israel said it repelled a Hamas incursion near Gaza a day after the release of two more hostages, one of whom described her ordeal.Diplomacy: President Biden spoke with the Saudi crown prince about e… [+1145 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "YouTube"
-      },
-      "author": null,
-      "title": "Death toll, injuries rise after latest Israeli night raid in West Bank - Al Jazeera English",
-      "description": null,
-      "url": "https://www.youtube.com/watch?v=ySW3sVYzhgg",
-      "urlToImage": null,
-      "publishedAt": "2023-10-25T05:42:09Z",
-      "content": "Your browser isnt supported anymore. Update it to get the best YouTube experience and our latest features. Learn more\r\nRemind me later"
-    },
-    {
-      "source": {
-        "id": "bloomberg",
-        "name": "Bloomberg"
-      },
-      "author": "Nicholas Takahashi, Masatsugu Horie, Supriya Singh",
-      "title": "Japan Auto Show: Latest From Toyota, Honda, Other Carmakers in EV Age - Bloomberg",
-      "description": "Japan’s carmakers are staging their first motor show in four years to make the case they’ll remain major global forces to be reckoned with in the electric-vehicle age.",
-      "url": "https://www.bloomberg.com/news/articles/2023-10-25/auto-show-latest-toyota-ceo-makes-case-for-battery-based-evs",
-      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iST0rD4hsHu0/v1/1200x800.jpg",
-      "publishedAt": "2023-10-25T04:41:15Z",
-      "content": "Japans carmakers are staging their first motor show in four years to make the case theyll remain major global forces to be reckoned with in the electric-vehicle age.\r\nThe newly named Japan Mobility S… [+414 chars]"
-    },
-    {
-      "source": {
-        "id": "reuters",
-        "name": "Reuters"
-      },
-      "author": "Andrew Hay",
-      "title": "Florida's DeSantis bans pro-Palestinian student group - Reuters",
-      "description": "Florida’s university system, working with Governor Ron DeSantis, ordered colleges on Tuesday to shut down a pro-Palestinian student organization, marking the first U.S. state to outlaw the group whose national leadership backed Hamas' attack on Israel.",
-      "url": "https://www.reuters.com/world/us/floridas-desantis-bans-pro-palestinian-student-group-2023-10-25/",
-      "urlToImage": "https://www.reuters.com/resizer/tjhsd46jIO1OYgq8q5XTj5WYkNM=/1200x628/smart/filters:quality(80)/cloudfront-us-east-2.images.arcpublishing.com/reuters/BFXU6EN2CNPPXNRXZDJA74QWDA.jpg",
-      "publishedAt": "2023-10-25T04:23:31Z",
-      "content": "Oct 24 (Reuters) - Floridas university system, working with Governor Ron DeSantis, ordered colleges on Tuesday to shut down a pro-Palestinian student organization, marking the first U.S. state to out… [+1997 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "The Athletic"
-      },
-      "author": "Andy McCullough",
-      "title": "Diamondbacks rally to defeat Phillies, win improbable NL pennant; will face Rangers in World Series - The Athletic",
-      "description": "The Diamondbacks are going to the World Series. You can say it again, if the sentence sounds foreign on the tongue.",
-      "url": "https://theathletic.com/4996520/2023/10/24/diamondbacks-phillies-game-7-nlcs/",
-      "urlToImage": "https://cdn.theathletic.com/app/uploads/2023/10/24232653/gettyimages-1755240847-594x594-1.jpg",
-      "publishedAt": "2023-10-25T03:55:02Z",
-      "content": "PHILADELPHIA Arizona Diamondbacks manager Torey Lovullo peered into the abyss on Aug. 11, 74 days before his team captured the National League pennant in an improbable, month-long ambush of their bet… [+8612 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Holmes Lybrand, Hannah Rabinowitz",
-      "title": "ABC News: Mark Meadows received immunity to testify to special counsel in federal election subversion probe - CNN",
-      "description": "Donald Trump’s former chief of staff, Mark Meadows, was granted immunity by special counsel Jack Smith and has met with federal prosecutors multiple times in their investigation into the efforts to overturn the 2020 presidential election, according to a repor…",
-      "url": "https://www.cnn.com/2023/10/24/politics/mark-meadows/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230329151247-meadows-nov-2022.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-10-25T03:22:00Z",
-      "content": "Donald Trumps former chief of staff, Mark Meadows, was granted immunity by special counsel Jack Smith and has met with federal prosecutors multiple times in their investigation into the efforts to ov… [+2441 chars]"
-    },
-    {
-      "source": {
-        "id": "cnn",
-        "name": "CNN"
-      },
-      "author": "Giri Viswanathan",
-      "title": "Health workers face \\\"mental health crisis,\\\" CDC says - CNN",
-      "description": "Researchers from the U.S. Centers for Disease Control and Prevention are sounding the alarm on a “mental health crisis” for health workers around the country.",
-      "url": "https://www.cnn.com/2023/10/24/health/health-workers-face-mental-health-crisis-cdc-says/index.html",
-      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231024202857-stressed-doctor-stock-image-restricted.jpg?c=16x9&q=w_800,c_fill",
-      "publishedAt": "2023-10-25T02:59:00Z",
-      "content": "Researchers from the US Centers for Disease Control and Prevention are sounding the alarm on a mental health crisis for health workers around the country.\r\nUsing nationwide survey data between 2018 a… [+4767 chars]"
-    },
-    {
-      "source": {
-        "id": "entertainment-weekly",
-        "name": "Entertainment Weekly"
-      },
-      "author": "https://www.facebook.com/entertainmentweekly",
-      "title": "'Dancing With the Stars' Most Memorable Year night recap: Elimination, scores - Entertainment Weekly News",
-      "description": "'Dancing With the Stars' season 32's Most Memorable Year night included several emotional performances and a moving tribute to Len Goodman.",
-      "url": "https://ew.com/tv/recaps/dancing-with-the-stars-season-32-episode-5-most-memorable-year-night-recap/",
-      "urlToImage": "https://ew.com/thmb/-vgTGWlHLdRHl8X6xsVaVoYxs1I=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Xochitl-and-val-DWTS-102423-cafc636ccea648ac9fa02f83c8f65463.jpg",
-      "publishedAt": "2023-10-25T02:36:10Z",
-      "content": "Most Memorable Year night is a tear-jerker of an episode every season of Dancing With the Stars, but tonight's performances were especially moving.\r\nThe 10 remaining celebrity competitors opened thei… [+2934 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "CBS Sports"
-      },
-      "author": "",
-      "title": "Phillies vs. Diamondbacks: TV channel, how to watch, live stream, prediction, pick, time for NLCS Game 7 - CBS Sports",
-      "description": "The National League pennant will be decided Tuesday night at Citizens Bank Park",
-      "url": "https://www.cbssports.com/mlb/news/phillies-vs-diamondbacks-tv-channel-how-to-watch-live-stream-prediction-pick-time-for-nlcs-game-7/",
-      "urlToImage": "https://sportshub.cbsistatic.com/i/r/2023/10/24/0b0ff899-be67-457b-9f7d-5cae289a7783/thumbnail/1200x675/3e0281fb18df6d2cffb9c90350292dae/harper-nlcs-getty-3.png",
-      "publishedAt": "2023-10-25T01:20:00Z",
-      "content": "A trip to the World Series is on the line Tuesday night in Philadelphia. The Arizona Diamondbacks beat the Philadelphia Phillies on Monday night to force Game 7 of the National League Championship Se… [+2065 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Yahoo Entertainment"
-      },
-      "author": "TRISHA AHMED",
-      "title": "Poison specialist and former medical resident at Mayo Clinic is charged with poisoning his wife - Yahoo News",
-      "description": "A poison specialist and former medical resident at Mayo Clinic in Minnesota is charged with fatally poisoning his wife, a 32-year-old pharmacist who died...",
-      "url": "https://news.yahoo.com/poison-specialist-former-medical-resident-235741773.html",
-      "urlToImage": "https://media.zenfs.com/en/ap.org/1990efed6a94443ebe171bfa83015d13",
-      "publishedAt": "2023-10-25T01:15:00Z",
-      "content": "MINNEAPOLIS (AP) A poison specialist and former medical resident at Mayo Clinic in Minnesota is charged with fatally poisoning his wife, a 32-year-old pharmacist who died days after she went to a hos… [+4527 chars]"
-    },
-    {
-      "source": {
-        "id": "cbs-news",
-        "name": "CBS News"
-      },
-      "author": "Tim Fang, Anne Makovec",
-      "title": "California DMV suspends permits for Cruise driverless robotaxis - CBS San Francisco",
-      "description": "The California Department of Motor Vehicles announced Tuesday that the agency has suspended permits of autonomous vehicle firm Cruise LLC.",
-      "url": "https://www.cbsnews.com/sanfrancisco/news/cruise-llc-driverless-robotaxis-california-dmv-suspends-permits/",
-      "urlToImage": "https://assets2.cbsnewsstatic.com/hub/i/r/2022/11/04/5982e715-63f5-4774-abf5-ddf6b74e8b4d/thumbnail/1200x630/1a2e77e9d241aaac467f36e5f453c868/cruise-car.jpg?v=4fae59acf57b6bb1efa9da07582ebc40",
-      "publishedAt": "2023-10-25T00:56:00Z",
-      "content": "SAN FRANCISCO – The California Department of Motor Vehicles announced Tuesday that the agency has suspended permits of autonomous vehicle firm Cruise LLC.\r\nIn a statement, the DMV said it notified th… [+6071 chars]"
-    },
-    {
-      "source": {
-        "id": null,
-        "name": "Variety"
-      },
-      "author": "J. Kim Murphy",
-      "title": "Richard Roundtree, ‘Shaft’ Star, Dies at 81 - Variety",
-      "description": "Richard Roundtree, the movie star who originated the role of detective John Shaft in the blaxploitation classic, died Tuesday of pancreatic cancer.",
-      "url": "https://variety.com/2023/film/news/richard-roundtree-dead-shaft-1235767495/",
-      "urlToImage": "https://variety.com/wp-content/uploads/2023/10/Richard-Roundtree-Shaft-Dead.jpg?w=1000&h=563&crop=1",
-      "publishedAt": "2023-10-25T00:51:00Z",
-      "content": "Richard Roundtree, an icon of Blaxploitation film who starred as detective John Shaft in Gordon Parks’ 1971 action thriller, died Tuesday afternoon after a short battle with pancreatic cancer. He was… [+3686 chars]"
-    },
     {
       "source": {
         "id": null,
         "name": "BBC News"
       },
       "author": "https://www.facebook.com/bbcnews",
-      "title": "Three key moments from Trump's court reunion with Michael Cohen - BBC.com",
-      "description": "The former president's fixer-turned-foe appears as a star witness in his civil fraud trial in New York.",
-      "url": "https://www.bbc.com/news/world-us-canada-67212196",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/11C08/production/_131521727_gettyimages-1754515773.jpg",
-      "publishedAt": "2023-10-25T00:37:23Z",
-      "content": "Media caption, Watch: Trump lashes out at ex-attorney before court appearance\r\nTuesday proved to be the most dramatic day in court yet in Donald Trump's civil fraud trial in New York. \r\nThe former pr… [+4212 chars]"
+      "title": "UAW strike: Stellantis and union agree pay rise in tentative deal - BBC.com",
+      "description": "Stellantis becomes the second US car giant to strike a tentative deal with the United Auto Workers union.",
+      "url": "https://www.bbc.com/news/business-67254006",
+      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/F091/production/_131558516_uawstrike_reuters.jpg",
+      "publishedAt": "2023-10-29T09:38:47Z",
+      "content": "Chrysler maker Stellantis has struck a tentative pay deal with the United Auto Workers union to end a six-week strike.\r\nThe agreement, which still needs to be approved by union leaders and members, f… [+2836 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Rachel Wolfe, Amara Omeokwe",
+      "title": "Five Ways Americans Keep Proving Economists Wrong - The Wall Street Journal",
+      "description": "A mix of job security, high savings and skepticism about the future are keeping U.S. consumers’ wallets open",
+      "url": "https://www.wsj.com/economy/consumers/5-things-us-economy-8a588781",
+      "urlToImage": "https://images.wsj.net/im-877280/social",
+      "publishedAt": "2023-10-29T09:30:00Z",
+      "content": "Americans prolonged spending spree has confounded economists and resulted in a \r\nsurging U.S. economy. Whats keeping their feet off the brakes?A strong labor market, resilient savings stockpiles and … [+370 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Cointelegraph"
       },
-      "author": null,
-      "title": "Britney Spears releases bombshell memoir 'The Woman in Me' | ABC News - ABC News (Australia)",
-      "description": "A memoir by Britney Spears titled The Woman in Me is set to be released in the United States.The title is a reference to her 2001 song I'm Not A Girl, Not Ye...",
-      "url": "https://www.youtube.com/watch?v=QvMecbTHdIo",
-      "urlToImage": "https://i.ytimg.com/vi/QvMecbTHdIo/maxresdefault.jpg",
-      "publishedAt": "2023-10-25T00:17:56Z",
+      "author": "William Suberg",
+      "title": "First Bitcoin ETF trades $1.5B as GBTC 'discount' echoes $69K BTC price - Cointelegraph",
+      "description": "Bitcoin ETF activity surged last week in step with a BTC price recovery.",
+      "url": "https://cointelegraph.com/news/first-bitcoin-etf-trades-gbtc-discount-69k-btc-price",
+      "urlToImage": "https://images.cointelegraph.com/cdn-cgi/image/format=auto,onerror=redirect,quality=90,width=1200/https://s3.cointelegraph.com/uploads/2023-10/71cb9094-a8b2-414a-806c-a422545677d9.jpg",
+      "publishedAt": "2023-10-29T08:17:09Z",
+      "content": "Bitcoin (BTC) institutional investment vehicles are seeing a major volume boost as excitement over possible United States regulatory changes takes hold.\r\nData from resources, including Bloomberg, sho… [+3010 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "The Daily Hodl"
+      },
+      "author": "Henry Kanapi",
+      "title": "$15,000,000,000,000 Floodgates Will Open for Bitcoin Upon Approval of BTC Exchange-Traded Fund: Glassnode Founders - The Daily Hodl",
+      "description": "The co-founders of crypto analytics firm Glassnode think that a deluge of capital will flow into Bitcoin once regulators greenlight a spot-based BTC exchange-traded fund (ETF).",
+      "url": "https://dailyhodl.com/2023/10/29/15000000000000-floodgates-will-open-for-bitcoin-upon-approval-of-btc-exchange-traded-fund-glassnode-founders/",
+      "urlToImage": "https://dailyhodl.com/wp-content/uploads/2023/05/Short-Squeeze-for-Bitcoin.jpg",
+      "publishedAt": "2023-10-29T07:04:55Z",
+      "content": "The co-founders of crypto analytics firm Glassnode think that a deluge of capital will flow into Bitcoin once regulators greenlight a spot-based BTC exchange-traded fund (ETF).\r\nGlassnode co-founders… [+1450 chars]"
+    },
+    {
+      "source": {
+        "id": "cnn",
+        "name": "CNN"
+      },
+      "author": "Laura Paddison",
+      "title": "They went hunting for fossil fuels. What they found could help save the world - CNN",
+      "description": "When two scientists went looking for fossil fuels beneath the ground of northeastern France, they did not expect to discover something which could supercharge efforts to tackle the climate crisis.",
+      "url": "https://www.cnn.com/2023/10/29/climate/white-hydrogen-fossil-fuels-climate/index.html",
+      "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/231027120437-01-white-hydrogen.jpg?c=16x9&q=w_800,c_fill",
+      "publishedAt": "2023-10-29T05:00:00Z",
+      "content": "When two scientists went looking for fossil fuels beneath the ground of northeastern France, they did not expect to discover something which could supercharge the effort to tackle the climate crisis.… [+7871 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "TheStreet"
+      },
+      "author": "TheStreet",
+      "title": "Hold onto your hats because it's going to be a very big Fed week - TheStreet",
+      "description": null,
+      "url": "https://www.thestreet.com/investing/hold-onto-your-hats-because-its-going-to-be-a-very-big-fed-week",
+      "urlToImage": null,
+      "publishedAt": "2023-10-29T01:21:55Z",
       "content": null
     },
     {
       "source": {
-        "id": "ars-technica",
-        "name": "Ars Technica"
+        "id": null,
+        "name": "Fox Business"
       },
-      "author": "Stephen Clark",
-      "title": "For the first launch of ULA’s Vulcan rocket, it’s Christmas or next year - Ars Technica",
-      "description": "Astrobotic's lunar lander ships to Florida later this week for final launch preps.",
-      "url": "https://arstechnica.com/space/2023/10/for-the-first-launch-of-ulas-vulcan-rocket-its-christmas-or-next-year/",
-      "urlToImage": "https://cdn.arstechnica.net/wp-content/uploads/2023/10/52649629958_428ac9403f_k-760x380.jpg",
-      "publishedAt": "2023-10-25T00:11:55Z",
-      "content": "Enlarge/ The first stage for ULA's Vulcan rocket was lifted onto its launch platform at Cape Canaveral in January.\r\n25 with \r\nThree days at Christmastime will be the final chance for United Launch Al… [+3344 chars]"
+      "author": "Sydney Borchers",
+      "title": "Walmart shopper finds Velveeta mac and cheese for 50 cents a box, sparking viral brand debate - Fox Business",
+      "description": "A TikTok user has gone viral and is sparking a conversation about macaroni and cheese brands after learning that Velveeta Shells & Cheese is selling for only 50 cents a box at Walmart.",
+      "url": "https://www.foxbusiness.com/lifestyle/walmart-shopper-finds-velveeta-mac-cheese-50-cents-box-sparking-viral-brand-debate",
+      "urlToImage": "https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/velveeta-split.jpg?ve=1&tl=1",
+      "publishedAt": "2023-10-29T00:02:10Z",
+      "content": "A Walmart shopper has gone viral on social media after capturing her fiancé's reaction to learning that Velveeta Shells &amp; Cheese is selling for only 50 cents a box.\r\nThe video posted by TikTok us… [+2901 chars]"
     },
     {
       "source": {
         "id": null,
-        "name": "YouTube"
+        "name": "Yahoo Entertainment"
       },
-      "author": null,
-      "title": "Off-duty pilot allegedly tried to shut off engines: New details | WNT - ABC News",
-      "description": "Joseph David Emerson allegedly told officers he believed he was having a \"nervous breakdown\" and had not slept in the 40 hours before the incident, prosecuto...",
-      "url": "https://www.youtube.com/watch?v=QAn_lUU2laY",
-      "urlToImage": "https://i.ytimg.com/vi/QAn_lUU2laY/maxresdefault.jpg",
-      "publishedAt": "2023-10-24T23:47:23Z",
-      "content": null
+      "author": "Britt Ross",
+      "title": "The 80+ best deals at Amazon this weekend — save up to 80% on Apple, iRobot and more - Yahoo Life",
+      "description": "Score a Keurig for a sweet 50% off and a 40-inch smart TV for just $168, along with plenty of home goods and holiday gift ideas.",
+      "url": "https://www.yahoo.com/lifestyle/amazon-sale-apple-10-28-2-234934548.html",
+      "urlToImage": "https://s.yimg.com/ny/api/res/1.2/Ig7h1rZGzoSd05jX1PjC2A--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD04MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-10/363507a0-63cb-11ee-abef-1e03afcb9a4d",
+      "publishedAt": "2023-10-28T23:49:36Z",
+      "content": "Sleek as a Dyson, minus the high price tag, this ultra-affordable Inse cordless vacuum just might make you enjoy cleaning your floors! At a mere three pounds, it's super easy to take with you from ro… [+1033 chars]"
     },
     {
       "source": {
-        "id": null,
-        "name": "The Action Network"
+        "id": "buzzfeed",
+        "name": "Buzzfeed"
       },
-      "author": "Sean Koerner",
-      "title": "Fantasy Football Streamers for Week 8: Gardner Minshew, Dalton Kincaid, More - The Action Network",
-      "description": "Sean Koerner reveals the players who fantasy managers can target as streaming options in NFL Week 8.",
-      "url": "https://www.actionnetwork.com/fantasy-football/fantasy-football-streamers-week-8-gardner-minshew-dalton-kincaid",
-      "urlToImage": "https://images.actionnetwork.com/blog/2023/10/dalton-kincaid.jpg",
-      "publishedAt": "2023-10-24T23:01:00Z",
-      "content": "\"Streaming\" quarterbacks, defenses and kickers has been a fantasy football strategy I've successfully used for years.\r\nI've parlayed that success into a series of weekly recommendations for the top s… [+3762 chars]"
+      "author": "Danielle Healy",
+      "title": "33 Travel Products You'll Gush About To Your Friends Almost As Much As The Actual Vacation - BuzzFeed",
+      "description": "The view from the hotel was great, but you'd give it up in a heartbeat to keep the game-changing travel pillow. Sleep is priceless.",
+      "url": "https://www.buzzfeed.com/daniellehealy/travel-items-youll-gush-about-as-much-as-vacation-an",
+      "urlToImage": "https://img.buzzfeed.com/buzzfeed-static/static/2023-10/23/17/campaign_images/a33846206f55/33-travel-products-youll-gush-about-to-your-frien-3-1109-1698083143-3_dblbig.jpg",
+      "publishedAt": "2023-10-28T23:31:03Z",
+      "content": "SlumberPod is a woman-owned small business that appeared on Shark Tank as a portable way to give kids a dark, private place to sleep even when the family is traveling away from home.  \r\nMy brother an… [+1158 chars]"
+    },
+    {
+      "source": {
+        "id": "the-wall-street-journal",
+        "name": "The Wall Street Journal"
+      },
+      "author": "Nora Eckert, Ryan Felton, Mike Colias",
+      "title": "UAW Expands Strike With GM After Reaching Tentative Agreement With Stellantis - WSJ - The Wall Street Journal",
+      "description": "Union calls a fresh walkout at a General Motors factory in Tennessee",
+      "url": "https://www.wsj.com/business/uaw-stellantis-reach-tentative-agreement-on-new-four-year-labor-contract-1bc9c9f5",
+      "urlToImage": "https://images.wsj.net/im-877471/social",
+      "publishedAt": "2023-10-28T23:19:00Z",
+      "content": "The United Auto Workers called a fresh strike at a General Motors factory in Tennessee, a surprise walkout after negotiators had been working nearly around the clock to finalize a new contract this w… [+394 chars]"
     },
     {
       "source": {
         "id": "fox-news",
         "name": "Fox News"
       },
-      "author": "Paul Steinhauser",
-      "title": "Biden busts century old tradition, won't place name on New Hampshire's presidential primary ballot - Fox News",
-      "description": "President Biden is breaking with 100 years of tradition with the news that he won't file to place his name on New Hampshire's 2024 Democratic presidential primary ballot",
-      "url": "https://www.foxnews.com/politics/biden-busts-century-old-tradition-wont-place-name-new-hampshires-presidential-primary-ballot",
-      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/03/Joe-Biden-DNC-meeting-Philadelphia-Feb.-3-2023.jpg",
-      "publishedAt": "2023-10-24T22:50:00Z",
-      "content": "CONCORD, N.H. President Biden is breaking with 100 years of tradition with the news that he won't file to place his name on New Hampshire's Democratic presidential primary ballot.\r\nThe Biden 2024 re-… [+4604 chars]"
+      "author": "Michael Dorgan",
+      "title": "MRI machine traps nurse in freak accident - Fox News",
+      "description": "A nurse was pinned between an MRI machine and a bed during a freak accident that took place at a medical center in Redwood City, California.",
+      "url": "https://www.foxnews.com/us/mri-machine-traps-nurse-freak-accident",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/10/MRI.jpg",
+      "publishedAt": "2023-10-28T22:58:00Z",
+      "content": "Safety concerns are being raised about a medical center in California after a nurse was recently pinned between an MRI machine and a bed during a freak accident, an investigation by KTVU uncovered.\r\n… [+3692 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "PBS"
+      },
+      "author": null,
+      "title": "Report finds Philips hid its CPAP machines' safety issues - PBS NewsHour",
+      "description": "CPAP machines help about 8 million Americans with sleep-related breathing disorders, like sleep apnea, by keeping their airways open while they sleep. But one manufacturer, Philips Respironics, is coming under fire for a critical change it made to millions of…",
+      "url": "https://www.pbs.org/newshour/show/investigation-finds-philips-hid-safety-issues-with-its-cpap-machines-for-years",
+      "urlToImage": "https://d3i6fh83elv35t.cloudfront.net/static/2023/10/Breathing-1024x532.jpg",
+      "publishedAt": "2023-10-28T21:30:49Z",
+      "content": "CPAP machines help about 8 million Americans with sleep-related breathing disorders, like sleep apnea, by keeping their airways open while they sleep. But one manufacturer, Philips Respironics, is co… [+196 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "Mishtalk.com"
+      },
+      "author": null,
+      "title": "Initial GDPNow Forecast for 2023 Q4 – MishTalk - Mish Talk",
+      "description": null,
+      "url": "https://mishtalk.com/economics/initial-gdpnow-forecast-for-2023-q4/",
+      "urlToImage": null,
+      "publishedAt": "2023-10-28T21:02:04Z",
+      "content": "Per GDPNow, their initial Q3 data point was 3.5% and ended up 1.4% higher.\r\nConsequently, I would fully expect this number to climb higher as the quarter progresses. As far as I can tell, since Q4 ha… [+350 chars]"
+    },
+    {
+      "source": {
+        "id": "bloomberg",
+        "name": "Bloomberg"
+      },
+      "author": "Ye Xie, Michael Mackenzie",
+      "title": "One Last Make-or-Break Week of 2023 Has Treasury Traders on Edge - Bloomberg",
+      "description": "It’s been a tempestuous year for US Treasuries. The coming week will set the stage for how it ends.",
+      "url": "https://www.bloomberg.com/news/articles/2023-10-28/one-last-make-or-break-week-of-2023-has-treasury-traders-on-edge",
+      "urlToImage": "https://assets.bwbx.io/images/users/iqjWHBFdfxIU/iAYf5PQUGIIk/v0/1200x800.jpg",
+      "publishedAt": "2023-10-28T20:08:16Z",
+      "content": "Its been a tempestuous year for US Treasuries. The coming week will set the stage for how it ends.\r\nIn the span of just a few days, investors will get updates on the major forces responsible for the … [+336 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTLA Los Angeles"
+      },
+      "author": "Sara Filips",
+      "title": "Restaurant adds $50 surcharge ‘for adults unable to parent’ - KTLA Los Angeles",
+      "description": "The internet is divided over a small detail at the bottom of a Georgia restaurant’s menu that charges parents for their misbehaving children.",
+      "url": "https://ktla.com/news/restaurant-adds-50-surcharge-for-adults-unable-to-parent/",
+      "urlToImage": "https://ktla.com/wp-content/uploads/sites/4/2023/10/MicrosoftTeams-image-1-1-e1698522607552.jpg?w=1280",
+      "publishedAt": "2023-10-28T19:50:30Z",
+      "content": "The internet is divided over a small detail at the bottom of a Georgia restaurant’s menu that charges parents for their misbehaving children, KTLA sister station WFLA reports.\r\nJust below the gratuit… [+1838 chars]"
+    },
+    {
+      "source": {
+        "id": "fox-news",
+        "name": "Fox News"
+      },
+      "author": "Kurt Knutsson, CyberGuy Report",
+      "title": "The world’s first certified passenger-carrying air taxi takes flight - Fox News",
+      "description": "The new flying electric-powered taxis will help to reduce environmental harm caused by emissions and can carry up to two passengers or 600 pounds of cargo.",
+      "url": "https://www.foxnews.com/tech/worlds-first-certified-passenger-carrying-air-taxi-takes-flight",
+      "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/10/1-air-taxi.jpg",
+      "publishedAt": "2023-10-28T18:08:00Z",
+      "content": "Imagine flying over the city in a pilotless, electric-powered aircraft that can take you from point A to point B in minutes without a pilot onboard. Sounds like science fiction, right? Well, not anym… [+6456 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "CNBC"
+      },
+      "author": "Kevin Stankiewicz",
+      "title": "Jamie Dimon's trades show the benefit of tracking insider buying, selling - CNBC",
+      "description": "Executives and board members often make trades involving their company stock holdings, but making sense of the transactions can sometimes be a tall task.",
+      "url": "https://www.cnbc.com/2023/10/28/jamie-dimon-trades-show-the-benefit-of-tracking-insider-buying-selling.html",
+      "urlToImage": "https://image.cnbcfm.com/api/v1/image/107122250-1663784109587-gettyimages-1243408055-HOUSE_BANKING.jpeg?v=1673523661&w=1920&h=1080",
+      "publishedAt": "2023-10-28T18:01:01Z",
+      "content": "For the first time in nearly two decades running JPMorgan Chase, CEO Jamie Dimon will voluntarily sell stock in the bank.\r\nThe disclosure, in a securities filing Friday, detailed next year's planned … [+2278 chars]"
+    },
+    {
+      "source": {
+        "id": "business-insider",
+        "name": "Business Insider"
+      },
+      "author": "Jennifer Sor",
+      "title": "Bond Market Outlook: 3 Reasons Investors Should Be Looking at Treasurys - Markets Insider",
+      "description": "Treasury yields have surged, bringing the ultra-safe investments in line with the highest dividend yields among S&P 500 firms.",
+      "url": "https://markets.businessinsider.com/news/bonds/bond-market-outlook-treasury-yields-stock-investing-strategy-interest-rates-2023-10",
+      "urlToImage": "https://i.insider.com/5ec809d92618b97415312998?width=1200&format=jpeg",
+      "publishedAt": "2023-10-28T17:36:00Z",
+      "content": "For the first time in years, bonds are looking attractive relative to stocks as yields soar on ultra-low-risk US government debt. \r\nThe yield on the 10-year Treasury topped 5% for the first time sinc… [+4092 chars]"
+    },
+    {
+      "source": {
+        "id": null,
+        "name": "KTRE"
+      },
+      "author": "Associated Press",
+      "title": "AP Sources: Auto workers, Stellantis reach tentative contract deal that follows model set by Ford - KTRE",
+      "description": "The deal, which still has to be ratified by members, leaves only General Motors without a contract with the union.",
+      "url": "https://www.ktre.com/2023/10/28/ap-sources-auto-workers-stellantis-reach-tentative-contract-deal-that-follows-model-set-by-ford/",
+      "urlToImage": "https://gray-ktre-prod.cdn.arcpublishing.com/resizer/kfFjWzrUWJ3M1ZfHdHObDCP_sAo=/1200x600/smart/filters:quality(85)/cloudfront-us-east-1.images.arcpublishing.com/gray/IHMARGQJ5ZHCLGORKO7UARCUAA.jpg",
+      "publishedAt": "2023-10-28T17:15:00Z",
+      "content": "DETROIT (AP) Jeep maker Stellantis reached a tentative contract agreement with the United Auto Workers union on Saturday as it escalated strikes against General Motors by adding a plant in Tennessee.… [+7184 chars]"
+    },
+    {
+      "source": {
+        "id": "abc-news",
+        "name": "ABC News"
+      },
+      "author": "DEE-ANN DURBIN AP business writer",
+      "title": "Less boo for your buck: For the second Halloween in a row, US candy inflation hits double digits - ABC News",
+      "description": "Spooked by the high price of Halloween candy? There’s not much relief in sight.",
+      "url": "https://abcnews.go.com/US/wireStory/boo-buck-halloween-row-us-candy-inflation-hits-104447379",
+      "urlToImage": "https://i.abcnewsfe.com/a/fa4608d1-6838-4e4d-8d20-4ffd05f62c03/wirestory_9410c51b7604761ef13cf9bea38691fb_16x9.jpg?w=992",
+      "publishedAt": "2023-10-28T17:10:51Z",
+      "content": "Spooked by the high price of Halloween candy? Theres not much relief in sight.\r\nFor the second year in a row, U.S. shoppers are seeing double-digit inflation in the candy aisle. Candy and gum prices … [+2715 chars]"
     }
   ]
 }
