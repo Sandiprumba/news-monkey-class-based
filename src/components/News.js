@@ -3,6 +3,7 @@ import NewsItem from "./NewsItem";
 import Spinner from "./Spinner";
 //create static data
 import PropTypes from "prop-types";
+//react infinit scroll
 
 class News extends React.Component {
   //pass the default props like this or we can pass from app.js as well
