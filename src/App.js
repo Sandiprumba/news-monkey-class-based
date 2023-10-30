@@ -5,6 +5,8 @@ import Navbar from "./components/Navbar";
 import { BrowserRouter, Routes, Route } from "react-router-dom";
 
 class App extends React.Component {
+  //refactor the page
+  pageSize = 15;
   render() {
     return (
       <>
@@ -13,7 +15,13 @@ class App extends React.Component {
           <Routes>
             <Route
               path="/"
-              element={<News pageSize={5} country="us" category="general" />}
+              element={
+                <News
+                  pageSize={this.pageSize}
+                  country="us"
+                  category="general"
+                />
+              }
             />
 
             <Route
@@ -22,7 +30,7 @@ class App extends React.Component {
               element={
                 <News
                   key="business"
-                  pageSize={5}
+                  pageSize={this.pageSize}
                   country="us"
                   category="business"
                 />
@@ -34,7 +42,7 @@ class App extends React.Component {
               element={
                 <News
                   key="entertainment"
-                  pageSize={5}
+                  pageSize={this.pageSize}
                   country="us"
                   category="entertainment"
                 />
@@ -46,7 +54,7 @@ class App extends React.Component {
               element={
                 <News
                   key="general"
-                  pageSize={5}
+                  pageSize={this.pageSize}
                   country="us"
                   category="general"
                 />
@@ -58,7 +66,7 @@ class App extends React.Component {
               element={
                 <News
                   key="health"
-                  pageSize={5}
+                  pageSize={this.pageSize}
                   country="us"
                   category="health"
                 />
@@ -70,7 +78,7 @@ class App extends React.Component {
               element={
                 <News
                   key="science"
-                  pageSize={5}
+                  pageSize={this.pageSize}
                   country="us"
                   category="science"
                 />
@@ -82,7 +90,7 @@ class App extends React.Component {
               element={
                 <News
                   key="sports"
-                  pageSize={5}
+                  pageSize={this.pageSize}
                   country="us"
                   category="sports"
                 />
@@ -94,7 +102,7 @@ class App extends React.Component {
               element={
                 <News
                   key="technology"
-                  pageSize={5}
+                  pageSize={this.pageSize}
                   country="us"
                   category="technology"
                 />
