@@ -1,0 +1,4 @@
+Addded 
+using scroll on top from react infinite scroll ''npm infinite scroll package
+added top loading bar it gives satisfaction to the user  package
+
